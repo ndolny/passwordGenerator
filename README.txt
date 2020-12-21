@@ -8,4 +8,4 @@
 #
 #password is then generated 
 
-
+* this is not connected to any repo, must add before project begins 
